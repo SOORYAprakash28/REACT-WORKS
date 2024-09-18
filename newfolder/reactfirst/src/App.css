@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.book{
+  border:2px solid blueviolet;
+  margin: 10px;
+  padding: 10px;
+  background-color: rgb(164, 135, 222);
+  box-shadow: yellowgreen;
+}
+
